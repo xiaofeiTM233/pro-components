@@ -34,7 +34,8 @@
     "tsc": "tsc --noEmit",
     "tsc:duplicate": "tsc -p ./tests/tsconfig.duplicate.json",
     "update:deps": "pnpm up --latest",
-    "version": "node ./scripts/gen_version.js"
+    "version": "node ./scripts/gen_version.js",
+    "prepare": "npm run build"
   },
   "browserslist": [
     "last 2 versions",
