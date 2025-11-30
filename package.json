@@ -43,9 +43,9 @@
     "ie >= 11"
   ],
   "resolutions": {
-    "@types/react": "^18.0.38",
-    "@types/react-dom": "^18.0.11",
-    "@types/responselike": "^1.0.0"
+    "@types/react": ">=18.0.38",
+    "@types/react-dom": ">=18.0.11",
+    "@types/responselike": ">=1.0.0"
   },
   "devDependencies": {
     "@ant-design/antd-theme-variable": "^1.0.0",
@@ -94,7 +94,7 @@
     "@umijs/utils": "^4.4.11",
     "@vitest/coverage-istanbul": "^2.1.9",
     "animated-scroll-to": "^2.3.2",
-    "antd": "^5.25.4",
+    "antd": ">=5.25.4",
     "antd-style": "^3.7.1",
     "babel-loader": "^9.2.1",
     "babel-types": "^6.26.0",
@@ -143,8 +143,8 @@
     "rc-steps": "^6.0.1",
     "rc-table": "^7.51.0",
     "rc-util": "^5.44.4",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": ">=18.3.1",
+    "react-dom": ">=18.3.1",
     "react-draggable": "^4.4.6",
     "react-layout-kit": "^1.9.1",
     "react-lazy-load": "^4.0.1",
